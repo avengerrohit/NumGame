@@ -11,5 +11,14 @@ apt update && apt upgrade -y
 
 apt install git -y
 
-git clone 
+git clone https://github.com/avengerrohit/NumGame.git
 
+cd NumGame/
+
+chmod +x *
+
+bash NumGame.sh
+
+python numgame.py
+
+That's it... Enjoy...
