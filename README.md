@@ -19,6 +19,6 @@ chmod +x *
 
 bash NumGame.sh
 
-Then type- numgame
+numgame
 
 That's it... Enjoy...
