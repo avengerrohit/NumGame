@@ -4,4 +4,6 @@ apt install figlet -y
 apt install python -y
 apt install python2 -y
 apt install git -y
-figlet AvengerRohit
+pip install lolcat
+figlet AvengerRohit | lolcat
+
