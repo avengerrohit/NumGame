@@ -1,0 +1,3 @@
+echo This game is made by Avenger Rohit... | lolcat
+figlet AvengerRohit | lolcat
+python numgame.py | lolcat
