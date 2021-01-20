@@ -19,6 +19,6 @@ chmod +x *
 
 bash NumGame.sh
 
-python numgame.py
+Then type- numgame
 
 That's it... Enjoy...
