@@ -1,5 +1,5 @@
 counter = 1
-n = 1000000000000000000
+n = 10000000
 
 while counter < n+1:
 
