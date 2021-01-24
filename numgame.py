@@ -1,5 +1,5 @@
 counter = 1
-n = 600000
+n = 500000
 
 while counter < n+1:
 
